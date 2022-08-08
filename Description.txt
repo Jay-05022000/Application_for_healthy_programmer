@@ -1,0 +1,10 @@
+---------------------------------------------------------------------Application for healthy programmer---------------------------------------------------------------
+
+programmer will start this application when he/she starts working as a programmer.
+This application will remind programmer about certain healty things.such as drinking water,eye exercise and physical exercise.
+It will use music to give acknowledgement about activities.It will also keep tracking of programmer activites.
+
+This application will remind programmer about following things:
+1) Drinking water - After every 23 mins from start of application
+2) Eye excercise- after every 30 mins from start of application
+3) Physical Exercise - After every 41 mins from start of applicationhave to tell user following things

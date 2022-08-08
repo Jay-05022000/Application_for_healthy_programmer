@@ -1,0 +1,32 @@
+water start time: Tue Aug  2 09:40:37 2022
+water finishd time:Tue Aug  2 09:41:57 2022
+
+water start time: Tue Aug  2 10:03:37 2022 
+water finishd time:Tue Aug  2 10:04:38 2022
+
+eye exercise start time: Tue Aug  2 10:10:37 2022 
+
+eye exercise finished time:Tue Aug  2 10:11:14 2022
+
+physical exercise start time: Tue Aug  2 10:21:37 2022 
+physical exercise finished time:Tue Aug  2 10:23:15 2022
+
+water start time: Tue Aug  2 10:26:37 2022 
+water finishd time:Tue Aug  2 10:26:53 2022
+
+eye exercise start time: Tue Aug  2 10:40:37 2022 
+
+eye exercise finished time:Tue Aug  2 10:41:14 2022
+
+water start time: Tue Aug  2 10:49:37 2022 
+water finishd time:Tue Aug  2 10:51:47 2022
+
+water start time: Tue Aug  2 13:53:45 2022 
+water finishd time:Tue Aug  2 13:53:57 2022
+
+water start time: Tue Aug  2 13:55:45 2022 
+water finishd time:Tue Aug  2 13:56:19 2022
+
+water start time: Tue Aug  2 13:57:45 2022 
+water finishd time:Tue Aug  2 13:58:23 2022
+
